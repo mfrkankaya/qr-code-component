@@ -26,8 +26,8 @@ The challenge is to build out this QR code component and get it looking as close
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/blog-card-preview-XhoM6wSddz](https://www.frontendmentor.io/solutions/blog-card-preview-XhoM6wSddz)
-- Live Site URL: [https://mfrkankaya.github.io/blog-preview-card/](https://mfrkankaya.github.io/blog-preview-card/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component--NVyTBHDxA](https://www.frontendmentor.io/solutions/qr-code-component--NVyTBHDxA)
+- Live Site URL: [https://mfrkankaya.github.io/qr-code-component](https://mfrkankaya.github.io/qr-code-component/)
 
 ## My process
 
